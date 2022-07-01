@@ -1,14 +1,18 @@
 body {
   background-color: #1f2024;
-  font-family: "Nunito", sans-serif;
+  font-family: "Quicksand", sans-serif;
   color: white;
+}
+
+#softwares {
+  background-color: black;
 }
 
 #about {
   background-color: #222e66;
 }
 
-#section4 {
+#contact {
   background-color: black;
 }
 
@@ -22,4 +26,10 @@ body {
 
 .contact {
   background-color: #1f2024;
+}
+
+.carousel-item img {
+  width: auto;
+  height: 65vh;
+  max-height: 65vh;
 }
